@@ -1,0 +1,29 @@
+{
+  "name": "haktan-basak",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "haktan": "echo 'Benim adım Haktan'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Haktan Başak",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.10.17",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hakopasa/haktan-basak.git"
+  }
+
+}
